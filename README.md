@@ -10,4 +10,10 @@ It helps penetration testers and bug hunters To Check Domains Status From Domain
 
 ## Installation
 
-git clone 
+```
+$ git clone https://github.com/Squnity/Domain-Checker-.git 
+```
+
+
+
+
