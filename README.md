@@ -11,7 +11,7 @@ It helps penetration testers and bug hunters To Check Domains Status From Domain
 ## Installation
 
 ```
-$ git clone https://github.com/Squnity/Domain-Checker-.git 
+$ git clone https://github.com/Squnity/Domain-Checker.git 
 ```
 
 
